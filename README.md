@@ -3,7 +3,7 @@ The Game of Life is a cellular automaton devised by mathematician John Horton Co
 
 
 ## **About the Game**
-GOL is a **zero-player** game that consists of a lattice with 'live' and 'dead' cells, where the congiguration of each generation is determined by the the coniguration of previous generations and a set of **four unchanging simple rules**.This means that **generation zero** is the only variable and  wil determine the fate of all cells in further generations. As a result Interesting patterns occur. you can read more about he game [here](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life).
+GOL is a zero-player game consisting of a lattice of 'live' and 'dead' cells, where the configuration of each generation is determined by the configuration of the previous generation and a set of four simple immutable rules. This means that generation zero is the only variable and will determine the fate of all cells in future generations. As a result, interesting patterns occur. you can read more about the game [here](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life).
 
 
 ### **Game rules:**
