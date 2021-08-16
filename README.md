@@ -17,4 +17,6 @@ GOL is a **zero-player** game consisting of a lattice of 'live' and 'dead' cells
 When you run this simple [script](https://github.com/adeoo/Game-of-life/blob/main/GOF.py), a *600 x 600* window will pop up, containing a lattice and a random generation zero, it will then proceed to play the game. close the window to terminate the script. 
 
 ## **Screenshot**
-![alt text](https://raw.githubusercontent.com/adeoo/Game-of-life/main/GOF.png "Screenshot")
+<p align="center">
+  <img src="https://raw.githubusercontent.com/adeoo/Game-of-life/main/GOF.png" >
+</p>
