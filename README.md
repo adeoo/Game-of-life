@@ -13,7 +13,7 @@ GOL is a zero-player game consisting of a lattice of 'live' and 'dead' cells, wh
 4. Any dead cell with exactly three live neighbours becomes a live cell.
 
 ## **About the Script**
-This is a simple script that pops out a 600x600 window  with a lattice and a random generation zero, and proceeds to play the game, close the window to terminate the script. 
+when you run this simple [script](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life) it will pop out a 600x600 window  with a lattice and a random generation zero, and proceeds to play the game, close the window to terminate the script. 
 
 ## **Screenshot**
 ![alt text](https://raw.githubusercontent.com/adeoo/Game-of-life/main/GOF.png "Screenshot")
