@@ -16,5 +16,4 @@ GOL is a **zero-player** game that consists of a lattice with 'live' and 'dead' 
 This is a simple script that pops out a 600x600 window  with a lattice and a random generation zero, and proceeds to play the game, close the window to terminate the script. 
 
 ## **Screenshot**
-https://raw.githubusercontent.com/adeoo/Game-of-life/main/GOF.png
 ![alt text](https://raw.githubusercontent.com/adeoo/Game-of-life/main/GOF.png "Screenshot")
