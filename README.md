@@ -17,4 +17,4 @@ This is a simple script that pops out a 600x600 window  with a lattice and a ran
 
 ## **Screenshot**
 https://raw.githubusercontent.com/adeoo/Game-of-life/main/GOF.png
-![alt text](https://raw.githubusercontent.com/adeoo/Game-of-life/main/GOF.png "Logo Title Text 1")
+![alt text](https://raw.githubusercontent.com/adeoo/Game-of-life/main/GOF.png "Screenshot")
