@@ -18,5 +18,5 @@ When you run this simple [script](https://github.com/adeoo/Game-of-life/blob/mai
 
 ## **Screenshot**
 <p align="center">
-  <img src="gol-car.jpg" >
+  <img src="gol-car2.jpg" >
 </p>
